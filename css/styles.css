@@ -132,9 +132,8 @@ body {
   justify-content: center;
   align-items: center;
 }
-a {
-  margin: 0px;
-  padding: 0px;
+.socials-item {
+  margin-bottom: 0px;
 }
 .socials .socials-item + .socials-item {
   margin-left: 10px;
